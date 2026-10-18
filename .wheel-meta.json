@@ -1,0 +1,22 @@
+{
+  "wheel_id": 422,
+  "structure": "umbrella",
+  "slug": "retainingwallscanberra-102",
+  "project": "retaining-walls-canberra-common-mistakes-985779b7e3a6e151c30d3c",
+  "parent_t1_ref": "retainingwallscanberra-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallscanberra.au",
+  "primary_kw": "retaining walls canberra common mistakes",
+  "intended_url": "https://sitesau.github.io/retainingwallscanberra-102/",
+  "tier": "T2",
+  "writeback_nonce": "706c6f01976093ca",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-canberra-aeaef5a2b50f570329b9aa2d4a7e9ed74b0739/",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
